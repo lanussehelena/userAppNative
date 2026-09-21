@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "UserAppNative",
     "slug": "UserAppNative",
+=======
+    "name": "userAppNative",
+    "slug": "userAppNative",
+>>>>>>> 7e2c61658d1d8bf01c86cde16651a3c223c648dc
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

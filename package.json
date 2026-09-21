@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.ts",
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "@expo/ngrok": "^4.1.3",
+>>>>>>> 7e2c61658d1d8bf01c86cde16651a3c223c648dc
     "@react-navigation/bottom-tabs": "^7.18.18",
     "@react-navigation/native": "^7.3.18",
     "axios": "^1.20.0",
